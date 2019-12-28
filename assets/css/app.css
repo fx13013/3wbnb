@@ -1,3 +1,5 @@
+@import url('./bootstrap.min.css');
+
 div.container, div.container-fluid{
     margin-top: 20px;
 }
@@ -6,6 +8,7 @@ div.adtitle{
     padding: 2em;
     background-size: cover;
     background-position: center center;
+    
 }
 
 div.adtitle h1, div.adtitle p{

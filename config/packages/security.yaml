@@ -24,8 +24,8 @@ security:
                 check_path: admin_account_login
 
             logout:
-                path: admin_account_logout
-                target: homepage
+                path: /logout
+                target: /
         main:
             anonymous: lazy
 
